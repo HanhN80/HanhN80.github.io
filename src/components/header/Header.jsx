@@ -13,7 +13,7 @@ const header = () => {
       <h5 className="text">
         <p className="welcome">
           I'm Full-Stack Developer. My objective is to leverage my expertise to
-          make meaningful contributions toward the company's success, gain more
+          make meaningful contributions toward your company's success, gain more
           experience, increase my earnings, and ultimately improve the quality
           of my life.
         </p>

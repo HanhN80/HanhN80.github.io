@@ -1,55 +1,43 @@
 import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../image/thanksgiving.png";
-import IMG2 from "../../image/snow.jpg";
+import IMG2 from "../../image/Fettuccine.jpg";
+import IMG3 from "../../image/Payroll.jpg";
+import IMG4 from "../../image/calculator.jpg";
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Chart templates & infographics in Figma",
-    github: "https://github.com",
-    demo: "https://github.com",
+    title: "Portfolio Webpage",
+    github: "https://github.com/HanhN80/HanhN80.github.io/tree/master",
+    demo: "https://hanhn80.github.io/",
   },
   {
     id: 1,
-    image: IMG1,
-    title: "Chart templates & infographics in Figma",
-    github: "https://github.com",
+    image: IMG2,
+    title: "Server-side-Web-Programming",
+    github: "https://github.com/HanhN80/Server-side-Web-Programming.git",
     demo: "https://github.com",
   },
   {
     id: 2,
-    image: IMG1,
-    title: "Chart templates & infographics in Figma",
+    image: IMG3,
+    title: "Payroll Project",
     github: "https://github.com",
     demo: "https://github.com",
   },
   {
     id: 3,
-    image: IMG1,
-    title: "Chart templates & infographics in Figma",
+    image: IMG4,
+    title: "Basic Calculator",
     github: "https://github.com",
     demo: "https://github.com",
   },
   {
     id: 4,
     image: IMG1,
-    title: "Chart templates & infographics in Figma",
-    github: "https://github.com",
-    demo: "https://github.com",
-  },
-  {
-    id: 5,
-    image: IMG1,
-    title: "Chart templates & infographics in Figma",
-    github: "https://github.com",
-    demo: "https://github.com",
-  },
-  {
-    id: 6,
-    image: IMG1,
-    title: "Chart templates & infographics in Figma",
+    title: "Restaurant QR Code Menu",
     github: "https://github.com",
     demo: "https://github.com",
   },

@@ -1,0 +1,37 @@
+.journey__container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem;
+}
+.journey__text {
+  text-align: center;
+  padding: 0 5rem 5rem 10rem;
+}
+
+.journey__item {
+  background: none;
+  padding: 1.3rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+.journey__item-image {
+  border-radius: 1.5rem;
+  height: 220px;
+  overflow: hidden;
+}
+
+.journey__item-title {
+  text-align: center;
+}
+
+/* Medium Devices */
+@media screen and (max-width: 1024px) {
+  .journey__text {
+    padding: 0 0 0.5rem 0.7rem;
+  }
+  .journey__container {
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+  }
+}

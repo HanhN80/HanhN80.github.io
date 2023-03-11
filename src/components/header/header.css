@@ -1,6 +1,6 @@
 header {
   height: 100vh;
-  padding-top: 0.5rem;
+  /* padding-top: 0.5rem; */
   overflow: hidden;
   text-align: center;
   color: whitesmoke;
@@ -64,6 +64,10 @@ header {
 @media screen and (max-width: 1024px) {
   header {
     height: 68vh;
+  }
+  .welcome {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
   }
 }
 
