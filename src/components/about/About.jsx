@@ -46,9 +46,9 @@ const About = () => {
               months to learning front-end and back-end web development to
               establish a strong foundation for pursuing full-stack development
               positions. My interest in databases grew as I recognized their
-              pivotal role in completing the back end of a project. As time
-              passed, I became more fascinated with coding than ever, prompting
-              me to create a portfolio and embark on various mini-projects.
+              pivotal role in completing the back end of a project. Over time, I
+              became more fascinated with coding than ever, prompting me to
+              create a portfolio and embark on various mini-projects.
             </div>
           </p>
           <a href="#contact" className="btn btn-primary">

@@ -10,13 +10,13 @@ const HeaderSocials = () => {
         href="https://www.linkedin.com/in/hanh-nguyen-76094162/"
         target="_blank"
       >
-        <BsLinkedin />
+        <BsLinkedin className="icon" />
       </a>
       <a href="https://github.com/HanhN80" target="_blank">
-        <BsGithub />
+        <BsGithub className="icon" />
       </a>
       <a href="https://facebook.com" target="_blank">
-        <BsFacebook />
+        <BsFacebook className="icon" />
       </a>
     </div>
   );

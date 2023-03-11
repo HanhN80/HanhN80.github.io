@@ -1,9 +1,9 @@
 import React from "react";
 import "./journey.css";
-import image1 from "../image/Carmel.jpg";
-import image2 from "../image/Yosemite.JPG";
-import image3 from "../image/snow.jpg";
-import image4 from "../image/Ninhbinh.JPG";
+import image1 from "../../image/Carmel.jpg";
+import image2 from "../../image/Yosemite.JPG";
+import image3 from "../../image/snow.jpg";
+import image4 from "../../image/Ninhbinh.JPG";
 
 const data = [
   { id: 1, image: image1, title: "Carmel", link: "https://pointlobos.org" },

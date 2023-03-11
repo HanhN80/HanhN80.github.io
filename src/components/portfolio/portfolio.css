@@ -41,9 +41,11 @@
   }
 }
 /* Small Device */
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 600px) {
   .portfolio__container {
     grid-template-columns: 1fr;
     gap: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }

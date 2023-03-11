@@ -1,15 +1,16 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../image/thanksgiving.png";
+import IMG1 from "../../image/Keyboard.png";
 import IMG2 from "../../image/Fettuccine.jpg";
 import IMG3 from "../../image/Payroll.jpg";
 import IMG4 from "../../image/calculator.jpg";
+import IMG5 from "../../image/QR Code menu.png";
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Portfolio Webpage",
+    title: "Portfolio",
     github: "https://github.com/HanhN80/HanhN80.github.io/tree/master",
     demo: "https://hanhn80.github.io/",
   },
@@ -36,7 +37,7 @@ const data = [
   },
   {
     id: 4,
-    image: IMG1,
+    image: IMG5,
     title: "Restaurant QR Code Menu",
     github: "https://github.com",
     demo: "https://github.com",
