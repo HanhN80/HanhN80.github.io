@@ -5,6 +5,7 @@ import IMG2 from "../../image/Fettuccine.jpg";
 import IMG3 from "../../image/Payroll.jpg";
 import IMG4 from "../../image/calculator.jpg";
 import IMG5 from "../../image/QR Code menu.png";
+import IMG6 from "../../image/Heart Disease.png";
 
 const data = [
   {
@@ -41,6 +42,14 @@ const data = [
     title: "Restaurant QR Code Menu",
     github: "https://github.com",
     demo: "https://github.com",
+  },
+  {
+    id: 5,
+    image: IMG6,
+    title: "Predicting Heart Disease Using Machine Learning",
+    github:
+      "https://github.com/HanhN80/Machine-Learning/tree/main/Predicting%20Heart%20Disease",
+    demo: "https://www.loom.com/share/7811c6e426d04242aee256ed25246667",
   },
 ];
 const Portfolio = () => {
